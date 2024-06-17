@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kaleb! <br/><a href="https://github.com/Kaleb-Weaver">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Kaleb! </h1>
+<!--<br/><a href="https://github.com/Kaleb-Weaver">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>-->
 
 <h2>👨‍💻 Networking Projects:</h2>
 <!--
