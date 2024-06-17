@@ -32,7 +32,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="KSWeaver98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/x.svg" />][twitter]
+[<img align="left" alt="KSWeaver98 | Twitter" width="22px" src="https://cdn.simpleicons.org/x.svg" />][twitter]
 
 [twitter]: https://twitter.com/KSWeaver98
 <!--
