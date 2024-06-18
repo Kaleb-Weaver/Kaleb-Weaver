@@ -1,6 +1,9 @@
 <h1>Hi, I'm Kaleb! </h1>
 <!--<br/><a href="https://github.com/Kaleb-Weaver">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>-->
 
+<h2>About Me:</h2>
+Hi Everyone! Welcome to my GitHub Page. I'm and aspiring Network Engineer using this platform to share what I am learning. Hopefully others finding this will use what I have learned and documented to further their own knowledge. I'm current working in the Water and Wastewater field as a plant operator. As fun as it is, my passion and goals pull me back towards IT and Technology. I grew up as a kid taking apart and putting back together the family computers and machines around the house. Ive since built my own computers, servers, and homelabs as I've grown up using it as opportunities to learn new technologies along the way.
+
 <h2>👨‍💻 Networking Projects:</h2>
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
