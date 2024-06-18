@@ -32,19 +32,21 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="KalebWeaver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kaleb Weaver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KSWeaver98 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/x.svg" />][twitter]
+[<img align="left" alt="Kaleb Weaver | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://linkedin.com/in/kaleb-weaver/
 [twitter]: https://twitter.com/KSWeaver98
+[youtube]: https://www.youtube.com/@Kaleb-Weaver
 <!--
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+
 [instagram]: https://www.instagram.com/joshmadakor/
 
 -->
